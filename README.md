@@ -2,7 +2,7 @@
 Technical Architect with around 9 years of experience in automotive software engineering, specialising in next-generation SDV architectures, EE design, Adaptive AUTOSAR and supplier software V&V. Proven track record in delivering innovative PoCs, tools and solutions for leading Japanese OEM.<br>Experienced in supporting client-facing projects, leading cross-functional teams and managing offshore-onsite delivery.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyank-shrivastava-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyankshri125@gmail.com) [![Website](https://img.shields.io/badge/Website-000000?logo=google-chrome&logoColor=white)](https://www.priyankshrivastava.dev)
 
 # 💻 Tech Stack:
@@ -14,5 +14,3 @@ Technical Architect with around 9 years of experience in automotive software eng
 
 ---
 [![](https://visitcount.itsvg.in/api?id=priyank125&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
